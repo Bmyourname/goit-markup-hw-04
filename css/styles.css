@@ -458,7 +458,7 @@ p {
     transform: translateY(100%);
 }
 
-.port_foto:hover .foto {
+.foto:hover .port_foto {
     transform: translateY(0%);
 }
 
