@@ -443,6 +443,10 @@ p {
     overflow: hidden;
 }
 
+.foto:hover .port_foto {
+    transform: translateY(0%);
+}
+
 .port_foto {
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
     position: absolute;
