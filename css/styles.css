@@ -455,6 +455,7 @@ p {
     background-color: #4d5ae5;
     height: 100%;
     width: 100%;
+    transform: translateY(100%);
 }
 
 .port_foto:hover .foto {
