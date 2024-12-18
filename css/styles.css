@@ -443,7 +443,7 @@ p {
     overflow: hidden;
 }
 
-.foto:hover .port_foto {
+.port_foto:hover .foto {
     transform: translateY(0%);
 }
 
@@ -459,7 +459,6 @@ p {
     background-color: #4d5ae5;
     height: 100%;
     width: 100%;
-    transform: translateY(100%)
 }
 
 /* #endregion Main */
